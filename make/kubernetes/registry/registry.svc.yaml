@@ -3,9 +3,11 @@ kind: Service
 metadata:
   name: registry
 spec:
+  type: NodePort
   ports:
     - name: repo
       port: 5000
+      nodePort: 30010
     - name: debug
       port: 5001
   selector:
