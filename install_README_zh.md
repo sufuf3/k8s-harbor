@@ -235,7 +235,7 @@ Memo: 至於為何要編輯 daemon.json 檔案呢？
 詳細可參考：https://docs.docker.com/registry/insecure/
 
 #### 10. 來 access 網頁吧！
-您可以在網址列使用 `http://reg.mydomain.com:30010` 或是 ui 的 service cluster IP `10.102.161.35` 來 access，帳號：`admin`；密碼：`Harbor12345` (這邊您可以在 `make/harbor.cfg` 中來設定，在使用 python 來重新產生 yaml 檔案，這組是官方預設的。)
+您可以在網址列使用 `http://reg.mydomain.com:30020` 或是 ui 的 service cluster IP `10.102.161.35` 來 access，帳號：`admin`；密碼：`Harbor12345` (這邊您可以在 `make/harbor.cfg` 中來設定，在使用 python 來重新產生 yaml 檔案，這組是官方預設的。)
 
 #### 11. 來上傳一個 image 到我們的 registry 吧！
 - 登入我們的 registry
