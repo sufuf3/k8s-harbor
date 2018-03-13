@@ -7,7 +7,10 @@ I would descript the step by step in quick installation & detail installation.
 - [Quick installation](qinstall_README.md)
 - [Detail installation](install_README.md)
 
-中文說明
+## 中文說明
 - [快速安裝](qinstall_README_zh.md)
 - [詳細安裝](install_README_zh.md)
 
+## 其他
+- [Harbor 解析]()
+To be continue...
