@@ -206,7 +206,7 @@ ing/harbor   reg.mydomain.com             80        40m
 NAME              TYPE        CLUSTER-IP       EXTERNAL-IP   PORT(S)                         AGE       SELECTOR
 svc/ui            NodePort    10.102.161.35    <none>        80:30020/TCP                    41m       name=ui-apps
 ```
-cluster IP 為 `10.110.64.93`，再次加入下列的資訊到 `/etc/hosts`
+cluster IP 為 `10.102.161.35`，再次加入下列的資訊到 `/etc/hosts`
 ```sh
 10.102.161.35   reg.mydomain.com
 ```
