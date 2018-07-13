@@ -10,6 +10,7 @@ I would descript the step by step in quick installation & detail installation.
 ## 中文說明
 - [快速安裝](mynote/qinstall_README_zh.md)
 - [詳細安裝](mynote/install_README_zh.md)
+- [Helm with Harbor](mynote/helm_harbor.md)
 
 ## 其他
 - [Harbor 解析](mynote/harbor-arch.md)
